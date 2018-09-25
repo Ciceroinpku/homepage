@@ -9,3 +9,4 @@
 ---
 
 作为一名没有什么电脑基础的小白，初次摸这些东西真的是瑟瑟发抖...而且大概也很容易看出来我也没有什么排版的水平。希望能在之后的学习中不断进步吧
+![image](https://github.com/Ciceroinpku/homepage/blob/master/MyPhoto/%E8%AF%81%E4%BB%B6%E7%85%A7.JPG)
